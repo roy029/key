@@ -13,8 +13,8 @@ colab上でキーログを回収していたように、ブラウザ上からで
 ├── logger
 │   ├── index.html
 │   ├── keys.js
-│   ├── logger.js
-│   ├── logger_test.js
-│   └── tuto.py
+│   ├── logger.js (動作確認)
+│   ├── logger_test.js (実行したらログがためられる◎)
+│   └── tuto.py (lamda関数の書くとこに置きたいやつ)
 └── setup.py
 </pre>
