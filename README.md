@@ -2,6 +2,7 @@
 
 colab上でキーログを回収していたように、ブラウザ上からでもログの回収がしたい
 
+<pre>
 .
 ├── README.md
 ├── colab
@@ -16,3 +17,4 @@ colab上でキーログを回収していたように、ブラウザ上からで
 │   ├── logger_test.js
 │   └── tuto.py
 └── setup.py
+</pre>
